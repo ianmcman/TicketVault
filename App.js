@@ -1,3 +1,10 @@
+/* Ian McManus
+757299
+1/29/2023
+Calculate the cost of a certain number of tickets at a 
+rate of $99.99 per ticket */
+
+
 import React, { useState } from 'react';
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, TextInput, View, Pressable, Button, Image } from 'react-native';
